@@ -35,10 +35,10 @@ namespace Country_CapitalCity
 
                 var userInput = int.Parse(Console.ReadLine());
 
-                if (userInput == 1)
+                bool success = false;
+                while (!success)
                 {
-                    bool success = false;
-                    while (!success)
+                    if (userInput == 1)
                     {
                         Console.WriteLine("Enter conutry:");
                         var country = Console.ReadLine();
@@ -61,12 +61,9 @@ namespace Country_CapitalCity
                             Console.WriteLine("Please try again:");
                         }
                     }
-                }
-                if (userInput == 2)
-                {
-                    bool success = false;
-                    while (!success)
+                    if (userInput == 2)
                     {
+
                         Console.WriteLine("Enter country:");
                         string country = Console.ReadLine();
 
@@ -79,14 +76,17 @@ namespace Country_CapitalCity
                         {
                             Console.WriteLine("The country you enter does not exists!");
                         }
-                    }                   
+
+                    }
+                    else if (userInput != 1 && userInput != 2)
+                    {
+                        Console.WriteLine("The input you are enter is in wrong format!");
+                    }
                 }
-                else if(userInput != 1 && userInput != 2)
-                {
-                    Console.WriteLine("The input you are enter is in wrong format!");                   
-                }
+                
                 Console.ReadLine();
             }
+
         } 
     }
 }
