@@ -1,0 +1,7 @@
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 1 Country-CapitalCity\Class 1-Homework\Country-CapitalCity\bin\Debug\Country-CapitalCity.exe.config
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 1 Country-CapitalCity\Class 1-Homework\Country-CapitalCity\bin\Debug\Country-CapitalCity.exe
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 1 Country-CapitalCity\Class 1-Homework\Country-CapitalCity\bin\Debug\Country-CapitalCity.pdb
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 1 Country-CapitalCity\Class 1-Homework\Country-CapitalCity\obj\Debug\Country-CapitalCity.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 1 Country-CapitalCity\Class 1-Homework\Country-CapitalCity\obj\Debug\Country-CapitalCity.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 1 Country-CapitalCity\Class 1-Homework\Country-CapitalCity\obj\Debug\Country-CapitalCity.exe
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 1 Country-CapitalCity\Class 1-Homework\Country-CapitalCity\obj\Debug\Country-CapitalCity.pdb
